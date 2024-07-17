@@ -1,13 +1,13 @@
 # Configure main menu and social menu
 
-[[main]]
-identifier = "home"
-name = "主页"
-url = "/"
-weight = -100
+# [[main]]
+# identifier = "home"
+# name = "主页"
+# url = "/"
+# weight = -100
 
-[main.params]
-icon = "home"
+# [main.params]
+# icon = "home"
 
 [[social]]
 identifier = "github"
