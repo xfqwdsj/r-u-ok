@@ -4,6 +4,7 @@
 identifier = "home"
 name = "主页"
 url = "/"
+weight = -100
 
 [main.params]
 icon = "home"
