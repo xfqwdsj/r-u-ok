@@ -2,10 +2,10 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/favicon.png"
+favicon = "/favicon.gif"
 
 [footer]
-since = 2020
+since = 2024
 customText = ""
 
 [dateFormat]
@@ -19,7 +19,7 @@ subtitle = "一个测试网站，没准有大用"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "/favicon.gif"
 
 [article]
 headingAnchor = false
@@ -27,7 +27,7 @@ math = false
 readingTime = true
 
 [article.license]
-enabled = true
+enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
@@ -76,7 +76,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
